@@ -1,8 +1,43 @@
-## Hi Myself Himanshu Gupta 👋
+# 👋 Hi, I'm Himanshu Gupta
 
+---
 
+## 🏆 Latest Projects at Retxture
 
-Currently in my Final Year at Maharaja Agrasen Institute of Technology
-
+<!--
+List your most significant/active Retxture organization projects here.
+Replace the examples below with real repo names/descriptions when known.
 -->
- 
+
+- **Project Name / Repo**  
+  _Brief description of your contribution or what the project solves._
+
+- *[Add more as needed]*
+
+---
+
+## 🚀 My Recent  Projects
+
+1. **[ClipSync](https://github.com/himax12/ClipSync)**  
+   _Intelligently sync B-Roll clips to your A-Roll content with a single VLM call._  
+   **Language:** Python
+
+2. **[PlotLine](https://github.com/himax12/PlotLine)**  
+   _A neuro-symbolic narrative engine combining symbolic reasoning with neural language generation for coherent story construction._  
+   **Language:** Python
+
+3. **[Phaedrus](https://github.com/himax12/Phaedrus)**  
+   _Details coming soon..._  
+   **Language:** Python
+
+> Note: Showing your 3 newest public repositories (out of 32 total).  
+> [See all repositories.](https://github.com/search?q=user:himax12&sort=updated&order=desc)
+
+---
+
+## 💬 Let’s Connect
+
+- GitHub: [himax12](https://github.com/himax12)
+- _Add more contact or social links as needed!_
+
+---
