@@ -4,19 +4,6 @@
 
 ## 🏆 Latest Projects at Retxture
 
-<!--
-List your most significant/active Retxture organization projects here.
-Replace the examples below with real repo names/descriptions when known.
--->
-
-- **Project Name / Repo**  
-  _Brief description of your contribution or what the project solves._
-
-- *[Add more as needed]*
-
----
-
-## 🚀 My Recent  Projects
 
 1. **[ClipSync](https://github.com/himax12/ClipSync)**  
    _Intelligently sync B-Roll clips to your A-Roll content with a single VLM call._  
