@@ -38,6 +38,6 @@ Replace the examples below with real repo names/descriptions when known.
 ## 💬 Let’s Connect
 
 - GitHub: [himax12](https://github.com/himax12)
-- _Add more contact or social links as needed!_
+- LinkedIn: https://www.linkedin.com/in/himanshu-gupta23/
 
 ---
