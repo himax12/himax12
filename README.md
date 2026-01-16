@@ -2,7 +2,7 @@
 
 ---
 
-## 🏆 Latest Projects at Retxture
+## 🏆 Latest Projects
 
 
 1. **[ClipSync](https://github.com/himax12/ClipSync)**  
