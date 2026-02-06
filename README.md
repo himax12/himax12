@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Himanshu Gupta
+# Hi  👋, I'm Himanshu Gupta
 
 ---
 
