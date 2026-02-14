@@ -1,6 +1,5 @@
 # Hi  👋, I'm Himanshu Gupta
 
----
 
 ## 🏆 Latest Projects
 
