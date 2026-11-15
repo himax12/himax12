@@ -1,29 +1,26 @@
-# Hi  👋, I'm Himanshu Gupta
+<p align="center">
+  <img src="assets/profile.svg" alt="Himanshu Gupta - Software Engineer at sparkonomy. Building Strip Studio." width="100%" />
+</p>
 
+<p align="center">
+  <a href="https://himax12.github.io/strip-studio/">Try Strip Studio</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/himanshu-gupta23/">LinkedIn</a> &nbsp; / &nbsp;
+  <a href="https://x.com/ayy_him_anshu23">X</a> &nbsp; / &nbsp;
+  <a href="https://github.com/himax12?tab=repositories">Repositories</a>
+</p>
 
-## 🏆 Latest Projects
+### Currently building
 
+**[Strip Studio](https://himax12.github.io/strip-studio/)** - turn your photos into strips and portrait sets. Crop, arrange, and export in your browser. Your photos stay on your device.
 
-1. **[ClipSync](https://github.com/himax12/ClipSync)**  
-   _Intelligently sync B-Roll clips to your A-Roll content with a single VLM call._  
-   **Language:** Python
+### Other experiments
 
-2. **[PlotLine](https://github.com/himax12/PlotLine)**  
-   _A neuro-symbolic narrative engine combining symbolic reasoning with neural language generation for coherent story construction._  
-   **Language:** Python
-
-3. **[Phaedrus](https://github.com/himax12/Phaedrus)**  
-   _Details coming soon..._  
-   **Language:** Python
-
-> Note: Showing your 3 newest public repositories (out of 32 total).  
-> [See all repositories.](https://github.com/search?q=user:himax12&sort=updated&order=desc)
-
----
-
-## 💬 Let’s Connect
-
-- GitHub: [himax12](https://github.com/himax12)
-- LinkedIn: https://www.linkedin.com/in/himanshu-gupta23/
+| Project | What it explores |
+| :--- | :--- |
+| [ClipSync](https://github.com/himax12/ClipSync) | Matching B-roll to A-roll with a vision-language model. |
+| [PlotLine](https://github.com/himax12/PlotLine) | Story generation with symbolic reasoning and language models. |
+| [clm-harness](https://github.com/himax12/clm-harness) | A Bash-only coding-agent harness where the model manages its own context by editing a file. |
 
 ---
+
+<sub>Built with curiosity. Updated by a human (and sometimes an agent).</sub>
