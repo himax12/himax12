@@ -1,6 +1,16 @@
-<p align="center">
-  <img src="assets/profile.svg" alt="Himanshu Gupta - Software Engineer at sparkonomy. Building Strip Studio." width="100%" />
-</p>
+```text
+himanshu@github
+
+currently.building   Strip Studio
+identity.name        Himanshu Gupta
+identity.role        Software Engineer
+work.company         sparkonomy
+projects.explore     ClipSync / PlotLine / clm-harness
+stack.current        JavaScript / HTML / CSS / Python
+
+$ build. ship. learn.
+```
+
 
 <p align="center">
   <a href="https://himax12.github.io/strip-studio/">Try Strip Studio</a> &nbsp; / &nbsp;
@@ -21,6 +31,3 @@
 | [PlotLine](https://github.com/himax12/PlotLine) | Story generation with symbolic reasoning and language models. |
 | [clm-harness](https://github.com/himax12/clm-harness) | A Bash-only coding-agent harness where the model manages its own context by editing a file. |
 
----
-
-<sub>Built with curiosity. Updated by a human (and sometimes an agent).</sub>
